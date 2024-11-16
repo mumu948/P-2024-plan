@@ -1,6 +1,6 @@
-# Task 1
+# Task 
+之前就下好了python,用vscode跑的  
 
-请补充个人信息后，在此完成报告！
 
-@Author:  
-@Email:
+@Author:朱雯杰  
+@Email:3391030015@qq.com  
